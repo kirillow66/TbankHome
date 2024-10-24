@@ -1,4 +1,4 @@
-package ru.tbank.edu.lesson3;
+package ru.tbank.edu;
 
 public class Main {
     public static void main(String[] args) {
